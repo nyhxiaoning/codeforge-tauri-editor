@@ -5,12 +5,16 @@
 
 CodeForge 是一款轻量级、高性能的桌面代码执行器，专为开发者、学生和编程爱好者设计。
 </div>
+## 介绍
+不要作为浏览器打开，这个本质是：tauri + vue3 + rust 开发的桌面应用。
+
+所以启动tarui的方式，可以快速使用。
+
+官方给了一个下载包：[releases的下载包](https://github.com/devlive-community/codeforge/releases)
+
 
 ## 演示视频
 
-📹 [下载演示视频](https://devlive-cdn.oss-cn-beijing.aliyuncs.com/applications/codeforge/codeforge.mp4) (点击下载或观看)
-
-> 注：由于 GitHub 不支持直接播放视频，请下载或点击链接查看
 
 ## 特性
 
